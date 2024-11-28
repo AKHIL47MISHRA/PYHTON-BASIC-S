@@ -1,4 +1,4 @@
-
+# this is not my code my friend created this and i just put this on my python basic's repo by mistake 
 
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
